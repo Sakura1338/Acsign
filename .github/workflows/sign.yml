@@ -24,4 +24,3 @@ jobs:
           ACSIGN_USERNAME: ${{ secrets.ACSIGN_USERNAME }}
           ACSIGN_PASSWORD: ${{ secrets.ACSIGN_PASSWORD }}
         run: php run.php
-
